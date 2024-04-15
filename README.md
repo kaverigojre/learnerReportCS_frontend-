@@ -21,8 +21,4 @@ https://lrccapstone.atlassian.net/jira/your-work
 https://github.com/UnpredictablePrashant/learnerReportCS_frontend/pull/1
 
 
-Pushpanjali testing branch commit
-=======
-# learnerReportCS_frontend-
-learnerReportCS_frontend
->>>>>>> origin/main
+
