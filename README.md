@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Learner Report Card - PRD
 
 ## Build Steps
